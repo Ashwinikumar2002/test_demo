@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DIV PAGE</title>
+<style>
+h1{color:#009900;
+font-size:44px;}
+.head1 
+{ 
+            font-size:40px; 
+            color:#009900; 
+            font-weight:bold; 
+        } 
+        .head2 { 
+            font-size:17px; 
+            margin-left:10px; 
+            margin-bottom:15px; 
+        } 
+        body { 
+            margin: 0 auto; 
+            background-position:center; 
+            background-size: contain; 
+        } 
+      
+        .menu {    
+            position: sticky; 
+            top: 0; 
+            background-color: #009900; 
+            padding:10px 0px 10px 0px; 
+            color:white; 
+            margin: 0 auto; 
+            overflow: hidden; 
+        } 
+        .menu a { 
+            float: left; 
+            color: white; 
+            text-align: center; 
+            padding: 14px 16px; 
+            text-decoration: none; 
+            font-size: 20px; 
+        } 
+        .menu-log { 
+            right: auto; 
+            float: right; 
+        } 
+        
+        .body_sec { 
+            margin-left:0px; 
+        } 
+</style>
+</head>
+<body><header> 
+        <div class="head1">NIT PATNA</div> 
+        <div class="head2">A computer science fanatic college</div> 
+    </header> 
+      
+    <!-- Menu Navigation Bar -->
+    <div class="menu"> 
+        <a href="#home">HOME</a> 
+        <a href="#news">NEWS</a> 
+        <a href="#notification">NOTIFICATIONS</a> 
+        <div class="menu-log"> 
+            <a href="#login">LOGIN</a> 
+        </div> 
+    </div> 
+      
+    <!-- Body section -->
+    <div class = "body_sec"> 
+        <section id="Content"> 
+            <h3>Content Section-</h3> 
+        </section> 
+    </div> 
+<div style="float: right">
+<img src="https://imgur.com/DYYKGjJ.jpg"alt="NIT PATNA"></img>
+</div>
+<div style="background-color: green; float: initial">
+<h1><u><a href="https://imgur.com/wsPynx1.jpg">NIT PATNA</a></u></h1>
+<p>National Institute of Technology Patna is the 18th National Institute of Technology created by the Ministry of H.R.D. Government of India after rechristening the erstwhile Bihar College of Engineering Patna on 28. 01. 2004. NIT Patna marked its humble beginning in 1886 with the establishment of pleaders survey training school which was subsequently promoted of Bihar College of Engineering Patna in 1924. This made this institute the 6th Oldest Engineering Institute of India. The graduate level curriculum was later elevated to the post graduate level in 1978. The institute is situated on the south bank of holy river Ganges behind Gandhi Ghat, one of the most important and reverential place of Patna. The Gandhi Ghat is associated with the immersion of ashes of father of the Nation Mahatma Gandhi in the river Ganges. The campus has a picturesque river view with historic building presenting a spectacle of architectural delight and natural beauty
+</p>
+<p>National Institute of Technology Patna has been declared as an Institute of National Importance and has been granted a fully Autonomous Status by MHRD, Government of India. The Institute has also been declared as a Centre of Excellence of impart high level education training , research and development in science, engineering technology and humanities. It is imparting high quality education & values at UG (B.Tech), PG (M.Tech) & Ph .D programmes through its experienced faculty well versed in their respective field of engineering an technology with well equipped laboratories . At present the Institute has seven disciplines viz. Architecture, Civil Engineering, Compute Science & Engg., Electrical Engg., Electronics & Communication Engg., Information Technology and Mechanical Engg., and well established departments of physics, Mathematics and Humanities and Social Science.
+</p>
+</div>
+<div style="background-color: lightblue">
+<h3>IMAGES OF NITP</h3>
+<table border="10px" align="center">
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+<th>4</th>
+<th>5</th>
+  </tr>
+  <tr>
+    <td><img src="https://imgur.com/0l6u5UK.jpg" width=200 height=200></td>
+    <td><img src="https://imgur.com/TK8QUHu.jpg" width=200 height=200></td>
+<td><img src="https://imgur.com/wsPynx1.jpg" width=200 height=200></td>
+<td><img src="https://imgur.com/Xefs0ue.jpg" width=200 height=200></td>
+<td><img src="https://imgur.com/hVzLLlh.jpg" width=200 height=200></td>
+</tr></table>
+<div style="background-color: light blue">
+<h4>BRANCHES OF NITP</h4>
+<table border="8px" align="center">
+<tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+  </tr>
+  <tr>
+    <td>Computer Science and Engineerin</td>
+    <td>Mechanical Engineering</td>
+<td>Electrical Engineering</td>
+<td>Civil Engineering</td>
+<td>Electronics Engineering</td></tr>
+<tr>
+<td><img src="https://imgur.com/JR57rCM.jpg" width=200 height=200></td>
+<td><img src="https://imgur.com/QzfaYMI.jpg" width=200 height=200></td>
+<td><img src="https://imgur.com/SYMvlmR.jpg" width=200 height=200></td>
+<td><img src="https://imgur.com/ll0NIM2.jpg" width=200 height=200></td>
+<td><img src="https://imgur.com/eFMhfxM.jpg" width=200 height=200></td>
+</tr>
+
+
+
+
+</table>
+</div>
+
+</body>
+</html>
